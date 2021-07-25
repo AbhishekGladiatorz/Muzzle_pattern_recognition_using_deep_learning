@@ -1,0 +1,101 @@
+,similarity,master_pi,similar_pi,Match/No Match
+0,1.0,test4,test4,Match
+10,1.0,Cattle2_3,Cattle2_3,Match
+90,1.0,Cattle2_2,Cattle2_2,Match
+80,1.0,test1,test1,Match
+70,1.0,Cattle1_1,Cattle1_1,Match
+60,1.0,Cattle1_2,Cattle1_2,Match
+40,1.0,test2,test2,Match
+30,1.0,Cattle1_3,Cattle1_3,Match
+20,1.0,test3,test3,Match
+50,1.0,Cattle2_1,Cattle2_1,Match
+31,0.919,Cattle1_3,Cattle1_1,Match
+71,0.919,Cattle1_1,Cattle1_3,Match
+41,0.9027,test2,Cattle1_3,Match
+32,0.9027,Cattle1_3,test2,Match
+11,0.8885,Cattle2_3,Cattle2_2,Match
+91,0.8885,Cattle2_2,Cattle2_3,Match
+81,0.8833,test1,test3,Match
+21,0.8833,test3,test1,Match
+92,0.8809,Cattle2_2,Cattle2_1,Match
+51,0.8809,Cattle2_1,Cattle2_2,Match
+61,0.8736,Cattle1_2,test3,Match
+22,0.8736,test3,Cattle1_2,Match
+42,0.873,test2,Cattle1_1,Match
+72,0.873,Cattle1_1,test2,Match
+52,0.86,Cattle2_1,Cattle2_3,Match
+12,0.86,Cattle2_3,Cattle2_1,Match
+62,0.8551,Cattle1_2,Cattle1_1,Match
+73,0.8551,Cattle1_1,Cattle1_2,Match
+63,0.8534,Cattle1_2,test1,Match
+82,0.8534,test1,Cattle1_2,Match
+23,0.8533,test3,test2,Match
+43,0.8533,test2,test3,Match
+33,0.8529,Cattle1_3,Cattle1_2,Match
+64,0.8529,Cattle1_2,Cattle1_3,Match
+24,0.8364,test3,Cattle1_3,Match
+34,0.8364,Cattle1_3,test3,Match
+13,0.8318,Cattle2_3,Cattle1_1,Match
+74,0.8318,Cattle1_1,Cattle2_3,Match
+44,0.8316,test2,Cattle1_2,Match
+65,0.8316,Cattle1_2,test2,Match
+83,0.8278,test1,test2,Match
+45,0.8278,test2,test1,Match
+46,0.8264,test2,Cattle2_1,Match
+53,0.8264,Cattle2_1,test2,Match
+35,0.8241,Cattle1_3,Cattle2_1,Match
+54,0.8241,Cattle2_1,Cattle1_3,Match
+75,0.8213,Cattle1_1,Cattle2_1,Match
+55,0.8213,Cattle2_1,Cattle1_1,Match
+25,0.8193,test3,Cattle2_3,Match
+14,0.8193,Cattle2_3,test3,Match
+36,0.8165,Cattle1_3,test1,Match
+84,0.8165,test1,Cattle1_3,Match
+26,0.8122,test3,Cattle1_1,Match
+76,0.8122,Cattle1_1,test3,Match
+37,0.8004,Cattle1_3,Cattle2_3,Match
+15,0.8004,Cattle2_3,Cattle1_3,Match
+27,0.798,test3,Cattle2_1,No Match
+56,0.798,Cattle2_1,test3,No Match
+93,0.7893,Cattle2_2,Cattle1_1,No Match
+77,0.7893,Cattle1_1,Cattle2_2,No Match
+47,0.7827,test2,Cattle2_3,No Match
+16,0.7827,Cattle2_3,test2,No Match
+66,0.7788,Cattle1_2,Cattle2_3,No Match
+17,0.7788,Cattle2_3,Cattle1_2,No Match
+85,0.776,test1,Cattle1_1,No Match
+78,0.776,Cattle1_1,test1,No Match
+38,0.749,Cattle1_3,Cattle2_2,No Match
+94,0.749,Cattle2_2,Cattle1_3,No Match
+28,0.7477,test3,Cattle2_2,No Match
+95,0.7477,Cattle2_2,test3,No Match
+86,0.7461,test1,Cattle2_1,No Match
+57,0.7461,Cattle2_1,test1,No Match
+39,0.7429,Cattle1_3,test4,No Match
+1,0.7429,test4,Cattle1_3,No Match
+18,0.7404,Cattle2_3,test1,No Match
+87,0.7404,test1,Cattle2_3,No Match
+88,0.7403,test1,test4,No Match
+2,0.7403,test4,test1,No Match
+3,0.738,test4,test3,No Match
+29,0.738,test3,test4,No Match
+48,0.7378,test2,test4,No Match
+4,0.7378,test4,test2,No Match
+96,0.7285,Cattle2_2,test2,No Match
+49,0.7285,test2,Cattle2_2,No Match
+67,0.7261,Cattle1_2,Cattle2_1,No Match
+58,0.7261,Cattle2_1,Cattle1_2,No Match
+97,0.7051,Cattle2_2,Cattle1_2,No Match
+68,0.7051,Cattle1_2,Cattle2_2,No Match
+5,0.6832,test4,Cattle1_2,No Match
+69,0.6832,Cattle1_2,test4,No Match
+98,0.6607,Cattle2_2,test1,No Match
+89,0.6607,test1,Cattle2_2,No Match
+6,0.6552,test4,Cattle1_1,No Match
+79,0.6552,Cattle1_1,test4,No Match
+59,0.6426,Cattle2_1,test4,No Match
+7,0.6426,test4,Cattle2_1,No Match
+19,0.578,Cattle2_3,test4,No Match
+8,0.578,test4,Cattle2_3,No Match
+9,0.5646,test4,Cattle2_2,No Match
+99,0.5646,Cattle2_2,test4,No Match
